@@ -16,3 +16,4 @@ The following Power modules are used
 - Az.Storage
 
 ## useful links
+- Create an Azure Storage Account: https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal
