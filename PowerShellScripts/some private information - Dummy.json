@@ -1,0 +1,17 @@
+{
+"PowerBISP": {
+"user": "the Application key of the Power BI SPN>",
+"pwd": "<the application secret>",
+"tenantid": "<your tenantid>"
+}
+,"sqlinstance": {
+"user": "<the sqluser>",
+"pwd": "<the password of the sql user>",
+"instance": "<the sql instance>",
+"database": "<the sql database>"
+}
+,"blob": {
+"storageAccount": "<the storage account>",
+"storageAccountKey": "<the storage account key>"
+}
+}
